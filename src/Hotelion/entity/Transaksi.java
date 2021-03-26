@@ -1,3 +1,14 @@
+/**
+ * PersonDAO.java
+ *
+ * Created on June 14, 2019, 10:15 AM
+ */
+
+/**
+ * Kelas Transaksi berfungsi untuk memodelkan Transaksi
+ *
+ * @author Kelompok reservasi unique hotel
+ */
 package Hotelion.entity;
 
 import Hotelion.Main;

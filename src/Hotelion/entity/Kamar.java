@@ -1,3 +1,14 @@
+/**
+ * PersonDAO.java
+ *
+ * Created on June 14, 2019, 10:15 AM
+ */
+
+/**
+ * Kelas Kamar berfungsi untuk memodelkan Kamar
+ *
+ * @author Kelompok reservasi unique hotel
+ */
 package Hotelion.entity;
 
 public class Kamar {
