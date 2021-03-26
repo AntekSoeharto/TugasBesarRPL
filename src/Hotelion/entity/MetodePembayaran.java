@@ -3,7 +3,7 @@ package Hotelion.entity;
 import java.util.Date;
 
 public abstract class MetodePembayaran {
-    public Date tanggalPembayaran;
+    private Date tanggalPembayaran;
 
     public MetodePembayaran(){
 

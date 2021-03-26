@@ -3,7 +3,7 @@ package Hotelion.entity;
 import java.util.Date;
 
 public class EMoney extends MetodePembayaran {
-    public String noHp;
+    private String noHp;
 
     public EMoney(){
 
