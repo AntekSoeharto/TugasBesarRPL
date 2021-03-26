@@ -3,8 +3,8 @@ package Hotelion.entity;
 import java.util.Date;
 
 public class Transfer  extends MetodePembayaran{
-    public String noRekening;
-    public String kodeTransfer;
+    private String noRekening;
+    private String kodeTransfer;
 
     public Transfer(){
 
